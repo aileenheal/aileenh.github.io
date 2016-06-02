@@ -3,9 +3,9 @@ layout: workshops
 title: FOSS4GUK Workshop Requirements
 ---
 
-# FOS4GUK Workshop Requirements #
+# FOS4GUK Workshop, Hack and Code Sprint Requirements #
 
-If you are attending one of the workshops you are required to bring your own device. <br>
+If you are attending one of the workshops, the hack or code sprint at FOSS$GUK, you are required to bring your own device. <br>
 We will provide copies of OSGEO-Live on DVD and Portable GIS on USB drives for you to use at the session if required (please see details below). OSGEO-Live includes a copy of QGIS 2.14<br>
 However it might be useful for you to download the necessary software before the workshops and install them on your device. <br>
 OSGEO-live can be downloaded [here](https://live.osgeo.org/en/index.html) and Portable GIS can be downloaded [here](http://www.archaeogeek.com/portable-gis.html). <br>
@@ -190,3 +190,16 @@ Materials Provided: Paper and electronic copies of detailed handouts to be used 
 TBA
 
  - - -
+ 
+ ## QGIS Code Sprint ##
+
+#### Saber Razmjooei QGIS Community / Tom Chadwin QGIS Community ####
+
+#### Code Sprint ####
+
+[Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#qgis-code-sprint)
+
+#### Software Requirements ####
+Please see [http://www.lutraconsulting.co.uk/blog/2016/05/31/qgis-code-sprint-foss4guk/](http://www.lutraconsulting.co.uk/blog/2016/05/31/qgis-code-sprint-foss4guk/)
+ 
+ 
